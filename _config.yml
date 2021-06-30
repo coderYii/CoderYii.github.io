@@ -8,7 +8,7 @@ subtitle: 'Yii`s Blog'
 description: 'try again'
 keywords: kubernetes
 author: Yii
-language: en
+language: default
 timezone: ''
 
 # URL
